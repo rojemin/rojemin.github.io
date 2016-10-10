@@ -49,3 +49,10 @@ rojemin website.
 # todo
 - [x] study markdown
 - [ ] make `index.html`
+
+### 이미지
+``` html
+<img src="http://imgnews.naver.net/image/413/2016/06/03/119065_134126_4155_99_20160603004204.jpg?type=w540"alt="119065_134126_4155_99_20160603004204">
+```
+
+![119065_134126_4155_99_20160603004204](http://imgnews.naver.net/image/413/2016/06/03/119065_134126_4155_99_20160603004204.jpg?type=w540)
