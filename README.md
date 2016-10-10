@@ -46,6 +46,6 @@ rojemin website.
 
 
 
-#todo
--[x] study markdown
--[ ] make index.html
+# todo
+- [x] study markdown
+- [ ] make `index.html`
