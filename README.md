@@ -58,4 +58,13 @@ rojemin website.
 <img src="http://imgnews.naver.net/image/413/2016/06/03/119065_134126_4155_99_20160603004204.jpg?type=w540"alt="119065_134126_4155_99_20160603004204" width="298" height="298">
 
 
-![119065_134126_4155_99_20160603004204](http://imgnews.naver.net/image/413/2016/06/03/119065_134126_4155_99_20160603004204.jpg?type=w540)
+<!-- ![119065_134126_4155_99_20160603004204](http://imgnews.naver.net/image/413/2016/06/03/119065_134126_4155_99_20160603004204.jpg?type=w540) -->
+
+
+### 하이퍼링크
+
+``` 
+- ["축구만 했을 뿐" 메시, 탈세 혐의로 징역 21개월·벌금 25억 선고](http://www.joongboo.com/?mod=news&act=articleView&idxno=1087653)
+- [[2016 국감]정무위, `김영란법 시행 준비 미흡·오락가락 유권 해석` 질타]
+(http://www.etnews.com/20161010000345)
+- ['혼술남녀' 공명, 남다른 몸매 자랑 "멍뭉미 가득한 얼굴+상남자 몸매"](http://www.greendaily.co.kr/news/articleView.html?idxno=34832)
