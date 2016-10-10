@@ -63,7 +63,7 @@ rojemin website.
 
 ### 하이퍼링크
 
-``` 
+
 - ["축구만 했을 뿐" 메시, 탈세 혐의로 징역 21개월·벌금 25억 선고](http://www.joongboo.com/?mod=news&act=articleView&idxno=1087653)
 - [[2016 국감]정무위, `김영란법 시행 준비 미흡·오락가락 유권 해석` 질타]
 (http://www.etnews.com/20161010000345)
