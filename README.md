@@ -68,3 +68,12 @@ rojemin website.
 - [[2016 국감]정무위, `김영란법 시행 준비 미흡·오락가락 유권 해석` 질타]
 (http://www.etnews.com/20161010000345)
 - ['혼술남녀' 공명, 남다른 몸매 자랑 "멍뭉미 가득한 얼굴+상남자 몸매"](http://www.greendaily.co.kr/news/articleView.html?idxno=34832)
+
+### 인용 구문 
+
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+html 안에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
+
+>"Design is All. All is Design."<br>
+>"Learn By Doing"<br>
+>"그것이 최선입니까? 확실해요?"
